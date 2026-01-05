@@ -14,9 +14,9 @@ I am an undergraduate Computer Science student at Northeastern University from J
 
 ## 💭 Interests
 
-- 🧠 **AI Ethics & Society** — Advocading for accountability and responsible AI usage in education and professional settings.
-- 🤖 **Artificial Intelligence** — Designing and integrating modern AI chatbots into web applications.
-- 🧩 **Software Design** — Crafting clean, maintainable code and designing scalable systems for interactive experiences.
+- **AI Ethics & Society** — Advocading for accountability and responsible AI usage in education and professional settings.
+- **Artificial Intelligence** — Designing and integrating modern AI chatbots into web applications.
+- **Software Design** — Crafting clean, maintainable code and designing scalable systems for interactive experiences.
 
 ---
 
