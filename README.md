@@ -1,6 +1,6 @@
-## Hello! 👋  I'm Timothy Bernardo
+## Hello there! 👋  I'm Timothy Bernardo
 
-I am a Computer Science student at Northeastern University from Jersey City, New Jersey. I'm passionate about **artificial intelligence**, **software design**, and exploring the **ethical implications of AI** in the real world.
+I am an undergraduate Computer Science student at Northeastern University from Jersey City, New Jersey. I'm passionate about **artificial intelligence**, **software design**, and exploring the **ethical implications of AI** in the real world.
 
 ---
 
