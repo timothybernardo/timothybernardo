@@ -32,7 +32,7 @@ I am an undergraduate Computer Science student at Northeastern University from J
 - **Klondike and Sanguine Card Games (Java)** - Engineered multiple object-oriented card games as part of coursework, emphasizing clean class design, game logic, and user interaction.  
 - **StudySphere (React, CSS, Supabase)** - Programmed a web application for Northeastern students to post and review study spaces on campus, implementing both frontend and backend functionality.
 - **Muse (React, CSS)** - Designed a music-focused platform where users can rate and review Spotify albums. Features included user submissions, ratings, lyrics viewer, and playlist creation.
-- **Word Games (Java, Kotlin)** - Executed Spelling Bee and Wordle-style games in foundational programming courses with input validation, scoring logic, and replayable game loops.
+- **Word Games (Java, Kotlin)** - Produced Spelling Bee and Wordle-style games in foundational programming courses with input validation, scoring logic, and replayable game loops.
 
 ---
 
