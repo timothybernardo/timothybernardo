@@ -22,26 +22,17 @@ I am a Computer Science student at Northeastern University from Jersey City, New
 
 ## 💼 Experience
 
-**Coursework-Based Development**  
-Built object-oriented programs primarily in **Java**, emphasizing real-world system modeling and clean class hierarchies. Major projects included implementing fully playable **games** with a focus on abstraction, encapsulation, and refactoring.
-
-**Independent & Web Projects**  
-Pursued personal development outside the classroom through experimental applications and early-stage web projects, translating ideas into functional software and leveraging AI to strengthen user experiences.
-
-**Collaborative Workspaces**  
-Completed individual, pair-programming, and group projects, working together through shared Git repositories, managing version control, and refining designs through peer feedback and testing.
+- **Coursework-Based Development**: Built object-oriented programs primarily in **Java**, emphasizing real-world system modeling and clean class hierarchies. Major projects included implementing fully playable **games** with a focus on abstraction, encapsulation, and refactoring.
+- **Independent & Web Projects**: Pursued personal development outside the classroom through experimental applications and early-stage web projects, translating ideas into functional software and leveraging AI to strengthen user experiences.
+- **Collaborative Workspaces**: Completed individual, pair-programming, and group projects, working together through shared Git repositories, managing version control, and refining designs through peer feedback and testing.
 
 ---
 
 ## 📁 Projects
-
-**Klondike and Sanguine Card Games (Java)**: Built multiple object-oriented card games as part of coursework, emphasizing clean class design, game logic, and user interaction.  
-
-**StudySphere (React, CSS, Supabase)**: Developed a web application for Northeastern students to post and review study spaces on campus, implementing both frontend and backend functionality.
-
-**Muse (React, CSS)**: Created a music-focused platform where users can rate and review Spotify albums. Features included user submissions, ratings, lyrics viewer, and playlist creation.
-
-**Word Games (Java, Kotlin)**: Developed Spelling Bee and Wordle-style games in foundational programming courses with input validation, scoring logic, and replayable game loops.
+- **Klondike and Sanguine Card Games (Java)**: Built multiple object-oriented card games as part of coursework, emphasizing clean class design, game logic, and user interaction.  
+- **StudySphere (React, CSS, Supabase)**: Developed a web application for Northeastern students to post and review study spaces on campus, implementing both frontend and backend functionality.
+- **Muse (React, CSS)**: Created a music-focused platform where users can rate and review Spotify albums. Features included user submissions, ratings, lyrics viewer, and playlist creation.
+- **Word Games (Java, Kotlin)**: Developed Spelling Bee and Wordle-style games in foundational programming courses with input validation, scoring logic, and replayable game loops.
 
 ---
 
