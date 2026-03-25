@@ -43,6 +43,5 @@ I am an undergraduate Computer Science student at Northeastern University from J
 
 ## 🤝 Let's Connect!
 
-- **GitHub:** https://github.com/timothybernardo
 - **LinkedIn:** https://www.linkedin.com/in/timothybernardo  
 - **Email:** bernardo.t@northeastern.edu
